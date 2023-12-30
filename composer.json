@@ -1,0 +1,18 @@
+{
+  "name": "lynnfly/lru-cache",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Lynnfly\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "LynnFly",
+      "email": "fly@eyabc.cn"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  }
+}
